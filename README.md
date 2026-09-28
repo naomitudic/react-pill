@@ -1,3 +1,9 @@
+# REACT.JS
+
+(ES) Aquí incluyo el ejemplo de código para la píldora informativa sobre React JS.
+
+(EN) This is a code example for the React JS pill.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
